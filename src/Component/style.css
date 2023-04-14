@@ -1,0 +1,24 @@
+.content {
+    width: 25%;
+    padding-top: 10%;
+
+}
+
+.Register-part {
+    width: 25%;
+
+}
+
+.register-btn {
+    background-color: #828a9c;
+}
+
+.message {
+    padding: 20px 20px 20px 20px;
+    background-color: #4260a5;
+    width: 15%;
+    align-items: center;
+    margin-left: 43%;
+
+
+}
